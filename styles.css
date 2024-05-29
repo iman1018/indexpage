@@ -9,6 +9,12 @@ body {
     font-family: 'Courier New', Courier, monospace; /* 고전적인 폰트 */
     color: #000; /* 기본 글자 색상 */
 }
+h1 {
+    margin: 0;
+    padding: 0;
+    color: #fff; /* 흰색 글자 */
+    text-shadow: 2px 2px 4px #000; /* 검은색 그림자 */
+}
 
 }
 
