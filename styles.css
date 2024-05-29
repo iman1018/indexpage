@@ -17,4 +17,5 @@ body {
     text-align: center;
     max-width: 80%;
     color: #000; /* 글자 색상 */
+    background-clip: padding-box; /* 패딩 영역만 배경 이미지 적용 */
 }
